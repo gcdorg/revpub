@@ -1,0 +1,10 @@
+{
+  "name": "@revpub/types",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "bson": "^6.3.0",
+    "zod": "^3.22.4"
+  }
+}
